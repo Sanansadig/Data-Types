@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+	<script type="text/javascript">
+	
+	var x = 5 ;
+	var y = 7 ;
+	var z = x + y ;
+	
+	document.write (z); 
+	
+	</script>
+	
+		
+	
+</body>
+<html>
