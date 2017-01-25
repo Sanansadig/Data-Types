@@ -1,0 +1,29 @@
+
+Variables are used to store information in any way that computer can understand it.
+Moreover, it is used to label data with a descriptive way. 
+We should pay attention to choose the best name which make any person read it easily.
+we use "=" when we add value to variable. Variables star with "var".
+
+I am adding javascript variable below.
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+	<script type="text/javascript">
+	
+	var sanan = "Sabah ayin ucu olacaq"
+	
+	document.write (sanan.length); 
+	
+	</script>
+	
+		
+	
+</body>
+<html>
