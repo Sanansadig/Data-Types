@@ -1,0 +1,24 @@
+Relational operators is such operators that we compare numbers in a given program. 
+For example 
+A = 3245;
+B = 2354; 
+if we write these codes below we will get answer accordingly.
+A == B    -> is not true
+== defines A equals B or not 
+
+A != B is true
+!= defines that A doesn’t equal B
+
+A > B is true
+A < B is false 
+A >= B is true
+B <= B is not true 
+
+this is conditional statement we can use this opertors in javascript . For example we can write 
+if A > B  
+var A + B 
+if else ( A – B) 
+if we put this condition we will get the answer : 3245 + 2354
+
+
+
