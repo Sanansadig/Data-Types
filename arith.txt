@@ -1,3 +1,9 @@
+Arithmetric operators 
+There are some operators to do mathematical, logical and relational operations. 
+These are arithmetic operators we use when we write any program :  +, -, *, /  . Above I have written simple arithmetic operators in javascript. 
+
+
+
 <!DOCTYPE html>
 <html>
 <head>
