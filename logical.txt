@@ -1,0 +1,5 @@
+Logical operators are true or false operators
+there 3 signs there 
+&& - A and B is different from zero we will see – true, otherways - false
+|| - if any of A and B is different from zero we see – true 
+! is not operator. If we put it in front of any operator we convert it against. 
